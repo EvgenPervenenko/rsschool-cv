@@ -5,10 +5,12 @@
 About myseld, i can say that i am dilligent and enthusiastic person, i like resolve differents problems, i like not standart tasks. I like find out new things and share it with other.
 1. Skills: c++, qt, python, TDD, SOLID, MVC, SCRUM, git, maven, sql, xcode, vs, qtcreator, vscode)
 1. Code examples: 
+```c++
     if (sad()){ 
-        stop_sad(); 
+        stopSad(); 
         beAwesome();
     }
+```
 1. Experience: in ios development have little experience
 1. Education: BSUIR
 1. English: Intermediate
